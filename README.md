@@ -1,4 +1,12 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=CS27+Project:+Road+Trip+Budget+Calculator)
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="120"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=3776AB&center=true&vCenter=true&width=800&lines=CS27+Project:+Road+Trip+Budget+Calculator" alt="Typing SVG"/>
+</h1>
+
+---
 
 ## Group Info
 **Members:**  
@@ -44,9 +52,10 @@ The console interface is **clear and user-friendly**.
 ---
 
 ## How to Run
-1. Make sure **Python 3.x** is installed.  
+1. Ensure **Python 3.x** is installed.  
 2. Clone or download this repository.  
 3. Open a terminal in the project folder.  
 4. Run the program:  
 ```bash
 python road_trip_budget_calculator.py
+
