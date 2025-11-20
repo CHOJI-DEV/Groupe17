@@ -57,5 +57,5 @@ The console interface is **clear and user-friendly**.
 3. Open a terminal in the project folder.  
 4. Run the program:  
 ```bash
-python road_trip_budget_calculator.py
+python main.py
 
